@@ -1,0 +1,11 @@
+name: SpeerAttributeSwapFixer
+version: '${version}'
+main: de.speerattributeswapfixer.SpeerAttributeSwapFixer
+api-version: '1.21.11'
+description: Einfacher Gamemode-Wechsler fuer deinen eigenen Paper-Server.
+author: ServerAdmin
+
+commands:
+  dwg:
+    description: Wechselt zwischen Creative und Survival.
+    usage: /dwg
